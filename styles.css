@@ -80,7 +80,7 @@ section {
     margin-top: 3rem;
     margin-bottom: 3rem;
     background: url('魚柳包 將軍澳堡 椒鹽燒賣 薯條 - 友利冰室 x 勿當奴.jpg') top right no-repeat,
-        url('') bottom left no-repeat;
+        url('Fast_food_01_ebru.jpg') bottom left no-repeat;
     background-size: 180px 180px;
     /* Ajuste o tamanho conforme necessário */
 }
@@ -108,12 +108,12 @@ h2 {
 }
 
 .fundo-galeria {
-    background: url('img/flor-bottom-direita.png') bottom right no-repeat;
+    background: url('In-N-Out_Burger_cheeseburgers.jpg') bottom right no-repeat;
     background-size: 180px 180px;
 }
 
 #contato {
-    background-image: url('img/4965007.jpg');
+    background-image: url('');
     background-size: cover;
     padding: 4rem 0;
     /* Espaçamento interno para a seção de contato */
